@@ -3,7 +3,7 @@
 A machine learning regression project for predicting molecular water solubility (`logS`) using numerical molecular descriptors.
 
 This project demonstrates a complete beginner-friendly machine learning workflow, including data loading, feature selection, model training, evaluation, visualization, and prediction for a new molecule entered by the user.
-
+---
 <img width="1672" height="941" alt="git02" src="https://github.com/user-attachments/assets/e098f38b-cb24-4adf-99de-eda7db81586d" />
 ---
 
